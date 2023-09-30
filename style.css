@@ -47,9 +47,6 @@ nav {
   margin: auto;
 }
 
-.list::-webkit-scrollbar {
-  display: none;
-}
 
 .list {
   white-space: nowrap;
