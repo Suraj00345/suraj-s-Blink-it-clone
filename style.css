@@ -104,6 +104,12 @@ nav {
  margin:0px;
 }
 
+.M{
+  text-align: center;
+  font-size:large;
+  font-weight:700;
+  margin-top: 10px;
+}
 footer{
   width: 85vw;
   margin: auto;
